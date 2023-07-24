@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the supreme law of the land?",
+            "answer": [
+                "the Constitution"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What does the Constitution do?",
+            "answer": [
+                "sets up the government",
+                "defines the government",
+                "protects basic rights of Americans"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+            "answer": [
+                "We the People"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is an amendment?",
+            "answer": [
+                "a change (to the Constitution)",
+                "an addition (to the Constitution)"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "What do we call the first ten amendments to the Constitution?",
+            "answer": [
+                "the Bill of Rights"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is one right or freedom from the First Amendment?",
+            "answer": [
+                "speech",
+                "religion",
+                "assembly",
+                "press",
+                "petition the government"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "How many amendments does the Constitution have?",
+            "answer": [
+                "twenty-seven (27)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What did the Declaration of Independence do?",
+            "answer": [
+                "announced our independence (from Great Britain)",
+                "declared our independence (from Great Britain)",
+                "said that the United States is free (from Great Britain)"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "What are two rights in the Declaration of Independence?",
+            "answer": [
+                "life",
+                "liberty",
+                "pursuit of happiness"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "What is freedom of religion?",
+            "answer": [
+                "You can practice any religion",
+                "or not practice a religion"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is the economic system in the United States?",
+            "answer": [
+                "capitalist economy",
+                "market economy"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is the “rule of law”?",
+            "answer": [
+                "Everyone must follow the law",
+                "Leaders must obey the law",
+                "Government must obey the law",
+                "No one is above the law"
+            ],
+            "multiple_answers_required": true
+        }
+    ]
+}

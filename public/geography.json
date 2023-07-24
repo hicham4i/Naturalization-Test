@@ -1,0 +1,86 @@
+{
+    "title": "Geography",
+    "type": "INTEGRATED CIVICS",
+    "questions": [
+        {
+            "question": "88. Name one of the two longest rivers in the United States.",
+            "answer": [
+                "Missouri (River)",
+                "Mississippi (River)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "89. What ocean is on the West Coast of the United States?",
+            "answer": [
+                "Pacific (Ocean)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "90. What ocean is on the East Coast of the United States?",
+            "answer": [
+                "Atlantic (Ocean)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "91. Name one U.S. territory.",
+            "answer": [
+                "Puerto Rico",
+                "U.S. Virgin Islands",
+                "American Samoa",
+                "Northern Mariana Islands",
+                "Guam"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "92. Name one state that borders Canada.",
+            "answer": [
+                "Maine",
+                "New Hampshire",
+                "Vermont",
+                "New York",
+                "Pennsylvania",
+                "Ohio",
+                "Michigan",
+                "Minnesota",
+                "North Dakota",
+                "Montana",
+                "Idaho",
+                "Washington",
+                "Alaska"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "Name one state that borders Mexico.",
+            "answer": [
+                "California",
+                "Arizona",
+                "New Mexico",
+                "Texas"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "94. What is the capital of the United States?*",
+            "answer": [
+                "Washington, D.C."
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "95. Where is the Statue of Liberty?*",
+            "answer": [
+                "New York (Harbor)",
+                "Liberty Island",
+                "New Jersey",
+                "near New York City",
+                "on the Hudson (River)"
+            ],
+            "multiple_answers_required": true
+        }
+    ]
+}

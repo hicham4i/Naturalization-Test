@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@capacitor/status-bar": "^5.0.6",
+    "@ionic/react": "^7.2.0",
+    "@ionic/react-router": "^7.2.0",
+    "@supabase/auth-helpers-nextjs": "^0.7.3",
+    "@supabase/supabase-js": "^2.29.0",
     "@types/node": "20.4.4",
     "@types/react": "18.2.15",
     "@types/react-dom": "18.2.7",
+    "@types/react-router": "^5.1.20",
+    "@types/react-router-dom": "^5.3.3",
     "autoprefixer": "10.4.14",
     "next": "13.4.12",
     "postcss": "8.4.27",

@@ -1,0 +1,108 @@
+{
+    "title": "recent american history and other important historical information",
+    "type": "AMERICAN HISTORY",
+    "questions": [
+        {
+            "question": "78. Name one war fought by the United States in the 1900s.*",
+            "answer": [
+                "World War I",
+                "World War II",
+                "Korean War",
+                "Vietnam War",
+                "(Persian) Gulf War"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "79. Who was President during World War I?",
+            "answer": [
+                "(Woodrow) Wilson"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "80. Who was President during the Great Depression and World War II?",
+            "answer": [
+                "(Franklin) Roosevelt"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "81. Who did the United States fight in World War II?",
+            "answer": [
+                "Japan, Germany, and Italy"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "82. During the Cold War, what was the main concern of the United States?",
+            "answer": [
+                "Communism"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "83. What movement tried to end racial discrimination?",
+            "answer": [
+                "civil rights (movement)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "84. What did Martin Luther King, Jr. do?*",
+            "answer": [
+                "fought for civil rights",
+                "worked for equality for all Americans"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "85. What major event happened on September 11, 2001, in the United States?",
+            "answer": [
+                "Terrorists attacked the United States."
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "86. Name one American Indian tribe in the United States.",
+            "answer": [
+                "Cherokee",
+                "Navajo",
+                "Sioux",
+                "Chippewa",
+                "Choctaw",
+                "Pueblo",
+                "Apache",
+                "Iroquois",
+                "Creek",
+                "Blackfeet",
+                "Seminole",
+                "Cheyenne",
+                "Arawak",
+                "Shawnee",
+                "Mohegan",
+                "Huron",
+                "Oneida",
+                "Lakota",
+                "Crow",
+                "Teton",
+                "Hopi",
+                "Inuit"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "87. Name one example of an American innovation.",
+            "answer": [
+                "Light bulb",
+                "Automobiles (cars)",
+                "Skyscrapers",
+                "Airplanes",
+                "Assembly line",
+                "Landing on the moon",
+                "Integrated circuit (IC)"
+            ],
+            "multiple_answers_required": true
+        }
+    ]
+}

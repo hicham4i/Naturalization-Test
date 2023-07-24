@@ -25,3 +25,15 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.subscribeModal,
+.mainModal {
+  --height: auto;
+}
+.mainModal_block {
+  width: 100%;
+  height: 87vh;
+}
+.cancelModal_block {
+  width: 100%;
+  height: 400px;
+}

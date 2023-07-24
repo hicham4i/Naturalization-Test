@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Principles of American Democracy",
+        "type": "AMERICAN GOVERNMENT",
+        "numberOfQuestions": 12,
+        "description": "This section covers the foundation of American government, the Constitution, and the democratic form of government.",
+        "data": "principles-of-american-democracy.json"
+    },
+    {
+        "title": "System of Government",
+        "type": "AMERICAN GOVERNMENT",
+        "numberOfQuestions": 47,
+        "description": "This section covers the organization of the U.S. government, and the powers of the branches of government.",
+        "data": "system-of-government.json"
+    },
+    {
+        "title": "Rights and Responsibilities",
+        "type": "AMERICAN GOVERNMENT",
+        "numberOfQuestions": 10,
+        "description": "This section covers the rights and responsibilities of U.S. citizens and residents.",
+        "data": "rights-and-responsibilities.json"
+    },
+    {
+        "title": "Colonial Period and Independence",
+        "type": "AMERICAN HISTORY",
+        "numberOfQuestions": 13,
+        "description": "This section covers early American history, from the colonial period to independence.",
+        "data": "colonial-period-and-independence.json"
+    },
+    {
+        "title": "1800s",
+        "type": "AMERICAN HISTORY",
+        "numberOfQuestions": 7,
+        "description": "This section covers American history during the 1800s, including the Civil War and important historical figures.",
+        "data": "1800s.json"
+    },
+    {
+        "title": "Recent American History and Other Important Historical Information",
+        "type": "AMERICAN HISTORY",
+        "numberOfQuestions": 30,
+        "description": "This section covers more recent American history and other important historical information.",
+        "data": "recent-american-history.json"
+    },
+    {
+        "title": "Geography",
+        "type": "INTEGRATED CIVICS",
+        "numberOfQuestions": 8,
+        "description": "This section covers basic U.S. geography.",
+        "data": "geography.json"
+    },
+    {
+        "title": "Symbols",
+        "type": "INTEGRATED CIVICS",
+        "numberOfQuestions": 3,
+        "description": "This section covers symbols of the United States.",
+        "data": "symbols.json"
+    },
+    {
+        "title": "Holidays",
+        "type": "INTEGRATED CIVICS",
+        "numberOfQuestions": 2,
+        "description": "This section covers U.S. holidays.",
+        "data": "holidays.json"
+    }
+]

@@ -1,0 +1,101 @@
+{
+    "title": " Rights and Responsibilities",
+    "questions": [
+        {
+            "question": "There are four amendments to the Constitution about who can vote. Describe one of them.",
+            "answer": [
+                "Citizens eighteen (18) and older (can vote).",
+                "You don’t have to pay (a poll tax) to vote.",
+                "Any citizen can vote. (Women and men can vote.)",
+                "A male citizen of any race (can vote)."
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is one responsibility that is only for United States citizens?",
+            "answer": [
+                "serve on a jury",
+                "vote in a federal election"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Name one right only for United States citizens.",
+            "answer": [
+                "vote in a federal election",
+                "run for federal office"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What are two rights of everyone living in the United States?",
+            "answer": [
+                "freedom of expression",
+                "freedom of speech",
+                "freedom of assembly",
+                "freedom to petition the government",
+                "freedom of religion",
+                "the right to bear arms"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "What do we show loyalty to when we say the Pledge of Allegiance?",
+            "answer": [
+                "the United States",
+                "the flag"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is one promise you make when you become a United States citizen?",
+            "answer": [
+                "give up loyalty to other countries",
+                "defend the Constitution and laws of the United States",
+                "obey the laws of the United States",
+                "serve in the U.S. military (if needed)",
+                "serve (do important work for) the nation (if needed)",
+                "be loyal to the United States"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "How old do citizens have to be to vote for President?",
+            "answer": [
+                "eighteen (18) and older"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What are two ways that Americans can participate in their democracy?",
+            "answer": [
+                "vote",
+                "join a political party",
+                "help with a campaign",
+                "join a civic group",
+                "join a community group",
+                "give an elected official your opinion on an issue",
+                "call Senators and Representatives",
+                "publicly support or oppose an issue or policy",
+                "run for office",
+                "write to a newspaper"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "When is the last day you can send in federal income tax forms?",
+            "answer": [
+                "April 15"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "When must all men register for the Selective Service?",
+            "answer": [
+                "at age eighteen (18)",
+                "between eighteen (18) and twenty-six (26)"
+            ],
+            "multiple_answers_required": false
+        }
+    ]
+}

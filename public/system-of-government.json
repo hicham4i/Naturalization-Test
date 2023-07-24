@@ -1,0 +1,277 @@
+{
+    "questions": [
+        {
+            "question": "Name one branch or part of the government.",
+            "answer": [
+                "Congress",
+                "legislative",
+                "President",
+                "executive",
+                "the courts",
+                "judicial"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What stops one branch of government from becoming too powerful?",
+            "answer": [
+                "checks and balances",
+                "separation of powers"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Who is in charge of the executive branch?",
+            "answer": [
+                "the President"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Who makes federal laws?",
+            "answer": [
+                "Congress",
+                "Senate and House (of Representatives)",
+                "(U.S. or national) legislature"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What are the two parts of the U.S. Congress?",
+            "answer": [
+                "the Senate and House (of Representatives)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "How many U.S. Senators are there?",
+            "answer": [
+                "one hundred (100)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "We elect a U.S. Senator for how many years?",
+            "answer": [
+                "six (6)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Who is one of your state’s U.S. Senators now?",
+            "answer": [
+                "Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. Senators.]"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "The House of Representatives has how many voting members?",
+            "answer": [
+                "four hundred thirty-five (435)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "We elect a U.S. Representative for how many years?",
+            "answer": [
+                "two (2)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Who does a U.S. Senator represent?",
+            "answer": [
+                "all people of the state"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Why do some states have more Representatives than other states?",
+            "answer": [
+                "(because of) the state's population",
+                "(because) they have more people",
+                "(because) some states have more people"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "We elect a President for how many years?",
+            "answer": [
+                "four (4)"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "In what month do we vote for President?",
+            "answer": [
+                "November"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is the name of the President of the United States now?",
+            "answer": [
+                "Visit uscis.gov/citizenship/testupdates for the name of the President of the United States."
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is the name of the Vice President of the United States now?",
+            "answer": [
+                "Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States."
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "If the President can no longer serve, who becomes President?",
+            "answer": [
+                "the Vice President"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "If both the President and the Vice President can no longer serve, who becomes President?",
+            "answer": [
+                "the Speaker of the House"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Who is the Commander in Chief of the military?",
+            "answer": [
+                "the President"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Who signs bills to become laws?",
+            "answer": [
+                "the President"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Who vetoes bills?",
+            "answer": [
+                "the President"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What does the President’s Cabinet do?",
+            "answer": [
+                "advises the President"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What are two Cabinet-level positions?",
+            "answer": [
+                "Secretary of Agriculture",
+                "Secretary of Commerce",
+                "Secretary of Defense",
+                "Secretary of Education",
+                "Secretary of Energy",
+                "Secretary of Health and Human Services",
+                "Secretary of Homeland Security",
+                "Secretary of Housing and Urban Development",
+                "Secretary of the Interior",
+                "Secretary of Labor",
+                "Secretary of State",
+                "Secretary of Transportation",
+                "Secretary of the Treasury",
+                "Secretary of Veterans Affairs",
+                "Attorney General",
+                "Vice President"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "What does the judicial branch do?",
+            "answer": [
+                "reviews laws",
+                "explains laws",
+                "resolves disputes (disagreements)",
+                "decides if a law goes against the Constitution"
+            ],
+            "multiple_answers_required": true
+        },
+        {
+            "question": "What is the highest court in the United States?",
+            "answer": [
+                "the Supreme Court"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "How many justices are on the Supreme Court?",
+            "answer": [
+                "Visit uscis.gov/citizenship/testupdates for the number of justices on the Supreme Court."
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Who is the Chief Justice of the United States now?",
+            "answer": [
+                "Visit uscis.gov/citizenship/testupdates for the name of the Chief Justice of the United States."
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
+            "answer": [
+                "to print money",
+                "to declare war",
+                "to create an army",
+                "to make treaties"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Under our Constitution, some powers belong to the states. What is one power of the states?",
+            "answer": [
+                "provide schooling and education",
+                "provide protection (police)",
+                "provide safety (fire departments)",
+                "give a driver’s license",
+                "approve zoning and land use"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Who is the Governor of your state now?",
+            "answer": [
+                "Answers will vary. [District of Columbia residents should answer that D.C. does not have a Governor.]"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is the capital of your state?",
+            "answer": [
+                "Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of U.S. territories should name the capital of the territory.]"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What are the two major political parties in the United States?",
+            "answer": [
+                "Democratic and Republican"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is the political party of the President now?",
+            "answer": [
+                "Visit uscis.gov/citizenship/testupdates for the political party of the President."
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is the name of the Speaker of the House of Representatives now?",
+            "answer": [
+                "Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives."
+            ],
+            "multiple_answers_required": false
+        }
+    ]
+}

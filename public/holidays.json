@@ -1,0 +1,29 @@
+{
+    "title": "Holidays",
+    "type": "INTEGRATED CIVICS",
+    "questions": [
+        {
+            "question": "When do we celebrate Independence Day?*",
+            "answer": [
+                "July 4"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Name two national U.S. holidays.",
+            "answer": [
+                "New Year’s Day",
+                "Martin Luther King, Jr. Day",
+                "Presidents’ Day",
+                "Memorial Day",
+                "Independence Day",
+                "Labor Day",
+                "Columbus Day",
+                "Veterans Day",
+                "Thanksgiving",
+                "Christmas"
+            ],
+            "multiple_answers_required": true
+        }
+    ]
+}

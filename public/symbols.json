@@ -1,0 +1,30 @@
+{
+    "title": "Symbols",
+    "type": "INTEGRATED CIVICS",
+    "questions": [
+        {
+            "question": "Why does the flag have 13 stripes?",
+            "answer": [
+                "because there were 13 original colonies",
+                "because the stripes represent the original colonies"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "Why does the flag have 50 stars?*",
+            "answer": [
+                "because there is one star for each state",
+                "because each star represents a state",
+                "because there are 50 states"
+            ],
+            "multiple_answers_required": false
+        },
+        {
+            "question": "What is the name of the national anthem?",
+            "answer": [
+                "The Star-Spangled Banner"
+            ],
+            "multiple_answers_required": false
+        }
+    ]
+}
